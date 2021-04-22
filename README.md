@@ -38,7 +38,7 @@ npm start
 
 ## Deployed Link
 
-* [See Live Site]
+* [See Live Site](https://intense-springs-76480.herokuapp.com/)
 
 ## Authors
 AcedYu
