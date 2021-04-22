@@ -7,6 +7,8 @@ It contains notable features such as:
 - Saveable notes that are stored in a JSON file, imitating a mock server
 - Clickable list of saved notes on the left, and a note entry form on the right
 
+![Image](demo.png)
+
 Due: Thursday, April 22, 2021 11:59 PM
 
 ## Getting Started
